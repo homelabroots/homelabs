@@ -13,7 +13,7 @@ Requirements:
 - 100 GB or more of free disk space
 
 ## Section 1.1 - Enable Hyper-V 
-NOTICE: See Appendix A if issues are encountered.
+> **NOTICE:** See Appendix A if issues are encountered.
 
 Step 1: Use the Start menu to search for "Turn Windows features" and click Open.
 
