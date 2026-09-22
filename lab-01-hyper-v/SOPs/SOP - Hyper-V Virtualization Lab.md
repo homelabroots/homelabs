@@ -162,6 +162,6 @@ Issue 2: Hyper-V checkbox is grayed out/missing
 
 Potential Solutions
 
-- Virtualization is disabled in your BIOS. Enable it based on your manufacturer's documentation.
+- Virtualization is disabled in your BIOS. Enable it based on your motherboard manufacturer's documentation.
 
 - Unsupported Windows edition. Make sure you are on Windows 10/11 Pro, Enterprise, or Education (not Home or S mode).

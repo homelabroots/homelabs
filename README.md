@@ -1,4 +1,4 @@
-# homelabs
+# Homelabs
 Documentation and standard operating procedures for home lab environments I build and maintain.
 
 ## Labs
